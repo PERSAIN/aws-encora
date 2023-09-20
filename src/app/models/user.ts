@@ -1,0 +1,8 @@
+export interface User {
+  email: string;
+  password: string;
+  name: string;
+  lastName: string;
+  code: string;
+  showPassword: boolean;
+}
